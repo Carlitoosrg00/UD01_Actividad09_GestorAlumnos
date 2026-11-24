@@ -24,10 +24,10 @@ Aplicación de consola desarrollada en Kotlin para la gestión básica de alumna
 ----------------------------------------------------------------------------------------------
 
 🛠️ Tecnologías utilizadas
-Kotlin
-IntelliJ IDEA
-Git
-GitHub
+- Kotlin
+- IntelliJ IDEA
+- Git
+- GitHub
 
 ----------------------------------------------------------------------------------------------
 
@@ -52,21 +52,21 @@ src
 ----------------------------------------------------------------------------------------------
 
 🚀 Ejecución
-Abrir el proyecto en IntelliJ IDEA.
-Ejecutar el archivo Main.kt.
-Utilizar el menú interactivo mostrado en consola.
+1. Abrir el proyecto en IntelliJ IDEA.
+2. Ejecutar el archivo Main.kt.
+3. Utilizar el menú interactivo mostrado en consola.
 
 ----------------------------------------------------------------------------------------------
 
 📖 Conceptos trabajados
-Data Class
-MutableList
-Funciones
-Menús interactivos
-Estructuras condicionales
-Bucles
-Validación de datos
-Búsquedas y filtrado de información
+- Data Class
+- MutableList
+- Funciones
+- Menús interactivos
+- Estructuras condicionales
+- Bucles
+- Validación de datos
+- Búsquedas y filtrado de información
 
 ----------------------------------------------------------------------------------------------
 👨‍💻 Autor
