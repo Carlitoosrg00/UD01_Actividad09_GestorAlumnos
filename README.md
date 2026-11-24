@@ -70,6 +70,7 @@ src
 
 ----------------------------------------------------------------------------------------------
 👨‍💻 Autor
+
 Carlos Romero Godino
 
 Actividad desarrollada para el módulo de Programación Multimedia y Dispositivos Móviles (PMDM).
@@ -77,4 +78,5 @@ Actividad desarrollada para el módulo de Programación Multimedia y Dispositivo
 ----------------------------------------------------------------------------------------------
 
 📄 Licencia
+
 Proyecto educativo realizado con fines académicos.
