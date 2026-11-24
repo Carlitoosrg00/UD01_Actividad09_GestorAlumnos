@@ -1,4 +1,5 @@
 🎓 UD01 - Actividad 09: Gestor de Alumnos en Kotlin
+
 Aplicación de consola desarrollada en Kotlin para la gestión básica de alumnado. Permite registrar estudiantes, almacenar sus notas, calcular la media del grupo y realizar diferentes operaciones de consulta y administración.
 
 ----------------------------------------------------------------------------------------------
@@ -32,6 +33,7 @@ Aplicación de consola desarrollada en Kotlin para la gestión básica de alumna
 ----------------------------------------------------------------------------------------------
 
 📂 Estructura del proyecto
+
 src
 │
 ├── Main.kt
@@ -52,6 +54,7 @@ src
 ----------------------------------------------------------------------------------------------
 
 🚀 Ejecución
+
 1. Abrir el proyecto en IntelliJ IDEA.
 2. Ejecutar el archivo Main.kt.
 3. Utilizar el menú interactivo mostrado en consola.
@@ -59,6 +62,7 @@ src
 ----------------------------------------------------------------------------------------------
 
 📖 Conceptos trabajados
+
 - Data Class
 - MutableList
 - Funciones
